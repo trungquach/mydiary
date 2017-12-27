@@ -12,5 +12,5 @@
         android:id="@+id/setting"
         android:icon="@drawable/setting"
         android:title="Setting"
-        app:showAsAction="never" />
+        app:showAsAction="collapseActionView" />
 </menu>
